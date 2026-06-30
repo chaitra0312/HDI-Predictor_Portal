@@ -18,3 +18,8 @@ An Artificial Intelligence & Machine Learning web application that utilizes data
 * templates : Holds `index.html` structure forms.
 * app.py : Core Flask microserver application backend controller file.
 * notebook.ipynb : Google Colab model training and exploration logic workflow history.
+## Data Visualization:
+<img width="278" height="190" alt="data2" src="https://github.com/user-attachments/assets/535f6af4-957a-4b7a-8fd9-d85964372f2a" />
+<img width="313" height="260" alt="data" src="https://github.com/user-attachments/assets/9f7687b0-b94d-408d-99ce-4406a34e190a" />
+
+
